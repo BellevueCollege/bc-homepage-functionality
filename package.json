@@ -1,9 +1,9 @@
 
 {
-  "name": "bc-homepage-functionality",
-  "version": "0.1.0",
+  "name": "BC Homepage Functionality",
+  "version": "1.0.0",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
+  "author": "Bellevue College IT Services",
   "scripts" : {
     "start" : "grunt default" ,
     "readme" : "grunt readme",
