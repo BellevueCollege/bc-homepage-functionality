@@ -6,7 +6,7 @@
  * Author:          Bellevue College IT Services
  * Author URI:      https://www.bellevuecollege.edu
  * Text Domain:     bc-homepage-functionality
- * Version:         1.0.2.1
+ * Version:         1.0.2
  *
  * @package         Bc_Homepage_Functionality
  */
