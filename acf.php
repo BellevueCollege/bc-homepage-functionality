@@ -130,7 +130,7 @@ acf_add_local_field_group(array(
 			'name' => '_ct_text_5a15ba386625f',
 			'type' => 'url',
 			'instructions' => 'Enter the URL which you would like this featured area to link to from the homepage',
-			'required' => 1,
+			'required' => 0,
 			'conditional_logic' => 0,
 			'wrapper' => array(
 				'width' => '',
