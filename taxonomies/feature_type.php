@@ -7,7 +7,7 @@
 function feature_type_init() {
 	register_taxonomy( 'feature_type', array( 'around_campus' ), array(
 		'hierarchical'      => true,
-		'public'            => true,
+		'public'            => false,
 		'show_in_nav_menus' => true,
 		'show_ui'           => true,
 		'show_admin_column' => false,
